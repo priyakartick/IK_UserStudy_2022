@@ -1,7 +1,11 @@
 # IK_UserStudy_2022
 IK Elbow script, Raw dara for different modes, Summarized data for participant 1-1
-Raw data can be found in the folder Assets/StreamingAssets
+Raw data can be found in the folder called StreamingAssets
 Elbow visualizer script can be found in the Assets folder
+
+
+You will need to open a new unity project and add the ElbowVisulizer script to the main camera. 
+StreaminAssets folder should be put into the Assets folder. All csv files should be located in this folder.
 
 When trying to visualize the data with gizmos, click on the main camera, update the file you wish to read from (ensure you have .csv at the end of the file name). Once this is loaded, you can press play, the visualization will be in the scene
 
